@@ -18,7 +18,7 @@ class InterestSeeder extends Seeder
             ['name' => 'Music'],
             ['name' => 'Travelling'],
             ['name' => 'Shopping'],
-            ['name' => 'Bike Ridding,']
+            ['name' => 'Bike Ridding']
         ];
 
         Interest::insert($data);
